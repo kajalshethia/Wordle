@@ -3,7 +3,7 @@
 A simple Python-based command-line Wordle game where players have six attempts to guess a five-letter word with feedback on letter positions.
 
 <p align="center">
-  <img src="wordle-demo.png" alt="Wordle Game" width="800" height="600">
+  <img src="wordle-demo.png" alt="Wordle Game" width="900" height="600">
 </p>
 
 
